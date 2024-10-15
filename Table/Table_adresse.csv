@@ -1,0 +1,201 @@
+id_adresse;Numero_rue;Nom_rue;Code_postal;Nom_ville;id_region
+1;36;rue André Texier;95200;Valléedan;10
+2;37;rue Hardy;11733;Morel-sur-Guibert;8
+3;14;avenue Alexandria Lesage;78235;Lefebvreboeuf;4
+4;1;rue Guillet;90404;Verdier-les-Bains;13
+5;39;chemin Thibault Lemonnier;28624;Julien;7
+6;7;chemin Wagner;75224;Sainte Stéphanie-les-Bains;7
+7;20;avenue Aimé Grégoire;73981;Mendès;8
+8;1;chemin Henri Toussaint;92972;Chrétien-sur-Ribeiro;13
+9;20;boulevard de Monnier;59894;Saint Alphonse;1
+10;25;avenue de Bazin;31552;Chauvin-sur-Guillou;4
+11;17;rue Stéphanie Berthelot;5370;Delaunay-la-Forêt;8
+12;21;rue Thomas Lopez;58954;Guibert;13
+13;46;boulevard Fischer;84795;Legrand-sur-Robin;6
+14;14;rue Gallet;45986;Techer-la-Forêt;9
+15;21;avenue Aimé Bigot;19910;Vallée;13
+16;5;rue Audrey Delattre;69589;Sainte Simone;2
+17;45;chemin Berger;1668;Morinnec;7
+18;30;avenue Blanc;14474;Carreboeuf;11
+19;4;rue de Chevallier;95944;Texier;13
+20;1;rue de Durand;93651;Saint Maggie;9
+21;25;rue de Colas;87520;Saint Matthieu;6
+22;23;chemin Lecoq;84402;Auger;9
+23;50;boulevard de Paul;63888;Galletboeuf;3
+24;43;chemin Yves Boyer;20485;Neveu;5
+25;46;rue Lucie Perrier;20961;Sainte Thérèsenec;7
+26;9;boulevard Antoinette Lamy;59241;Fournier;3
+27;18;rue Thierry Deschamps;40651;Sainte Gilbert-les-Bains;4
+28;20;boulevard Marin;13569;Vaillant;6
+29;25;avenue de Mary;17162;Gaynec;11
+30;44;chemin Françoise Clerc;45860;Sainte William-la-Forêt;6
+31;27;boulevard Lorraine Grondin;2741;Guillot;13
+32;9;rue Becker;97691;Sainte Emmanuel;9
+33;4;rue Bouvet;78228;Blin-la-Forêt;2
+34;42;chemin Renée Leconte;89988;Barbe-sur-Blin;12
+35;17;boulevard Traore;80267;Valentin-sur-Mer;2
+36;5;rue de Jacob;26319;Guillot-les-Bains;10
+37;6;avenue Marine Rossi;89341;Mendès-sur-Courtois;6
+38;22;chemin de Lebon;91325;Briand-sur-Mer;1
+39;1;rue Luce Boulanger;34355;Lefort;12
+40;13;rue Julie Morvan;16517;Saint Timothée;5
+41;22;boulevard Alphonse Maurice;69654;Le Gall;8
+42;40;avenue Danielle Pruvost;12760;Saint Virginie;8
+43;44;rue de Daniel;40368;FabreVille;5
+44;50;avenue Blin;62259;Coulon;12
+45;40;avenue Zacharie Brunel;62916;Ferrand-sur-Mer;3
+46;41;chemin Lemaire;82803;RivièreVille;10
+47;26;chemin de Andre;88722;Merleboeuf;4
+48;37;chemin de Charrier;53137;Bonneau;9
+49;19;avenue de Guillaume;69448;Lamy;7
+50;2;rue Gérard;58852;Rollandnec;10
+51;50;avenue Olivie Buisson;68646;Dumas-sur-Chauvet;12
+52;47;rue de Royer;97236;Chauveau-les-Bains;4
+53;9;rue Vallée;95255;Antoinedan;3
+54;2;rue Adrien Coste;63574;Saint Williamboeuf;6
+55;14;boulevard Leconte;50349;Leclercq;9
+56;16;rue de Dufour;73139;Diaz-sur-Carre;4
+57;1;chemin Jacquot;11956;Sainte Benoît;8
+58;47;rue Marin;58714;Ferreira-la-Forêt;6
+59;36;chemin de Loiseau;71336;ChartierBourg;8
+60;16;avenue Vallée;28943;Schneidernec;10
+61;11;chemin de Mary;18712;Masson;12
+62;12;boulevard Jacques Aubert;55260;Mercier;6
+63;24;boulevard Marty;54358;Gosselin-sur-Marty;1
+64;33;boulevard de Ledoux;11819;Lefort;13
+65;47;rue de Tessier;18228;Adam;13
+66;2;rue Sylvie Launay;5661;Rodriguesnec;11
+67;33;rue de Marion;82906;Saint DavidVille;2
+68;33;avenue Dominique Fouquet;78379;Bègue-sur-Poulain;3
+69;11;avenue de Barbier;22432;Lemaître-les-Bains;10
+70;27;rue Dominique Descamps;5814;Marion-sur-Allain;2
+71;23;chemin de Hernandez;48186;Dupuis-sur-Guyon;9
+72;7;chemin Robert Carlier;56662;Julien;2
+73;49;chemin Foucher;31827;Marty;2
+74;45;avenue de Lambert;97125;Toussaint-les-Bains;3
+75;21;boulevard Robert Gomes;58135;Giraudboeuf;10
+76;29;rue Luce Boulanger;7529;Charpentier-sur-Mer;12
+77;28;boulevard Verdier;37929;Salmon-sur-Charrier;5
+78;27;avenue de Coste;78851;Sainte Grégoire-sur-Mer;11
+79;49;rue Josette Techer;78767;Valentin;1
+80;22;chemin de Guillou;45302;LucasVille;1
+81;33;rue Alphonse Perrin;76631;Mallet-sur-Lemaître;4
+82;7;avenue Émilie Olivier;32192;Sainte NathalieBourg;13
+83;47;rue de De Oliveira;70121;Chevallier-la-Forêt;7
+84;20;rue de Pasquier;12428;Lopes;5
+85;6;rue Alex Cordier;81118;Rocher;2
+86;30;rue Mallet;4868;Saint PatrickBourg;5
+87;21;chemin de Gomez;7876;Moreno-sur-Julien;9
+88;25;rue Boulanger;82728;Hardy;1
+89;48;chemin de Martel;46858;Briand;1
+90;42;avenue Margot Giraud;71912;Gilles;11
+91;23;chemin de Roy;62223;Hardy;5
+92;19;avenue de Rivière;19924;Sainte Christine;2
+93;29;avenue Renault;22595;Andre;8
+94;32;rue de Lucas;5331;Simon-sur-Étienne;12
+95;13;boulevard de Pascal;39861;Robin;9
+96;15;chemin de Huet;82534;Sainte David;7
+97;34;chemin Bonneau;83591;Cousin-sur-Garcia;9
+98;15;avenue Bernadette Leduc;10408;Roger;6
+99;1;rue François;23214;Saint Anastasie;3
+100;23;rue Meunier;28395;Maurice;2
+101;22;boulevard Moreno;19666;Laroche;2
+102;47;rue Nathalie Nicolas;50109;Fernandes-les-Bains;10
+103;9;boulevard Raymond Lopez;77708;Sainte Susan;8
+104;27;rue Raynaud;43977;Sainte Marine;13
+105;35;boulevard Nicolas Meyer;57707;LamyVille;1
+106;4;chemin Lucas Ledoux;19922;BertinBourg;10
+107;43;chemin de Lecomte;73332;Dos Santos;11
+108;13;boulevard de Laroche;6256;Dijoux;3
+109;39;rue Caron;82457;Saint Zacharie;2
+110;8;boulevard de Lenoir;97437;Saint LaetitiaBourg;1
+111;2;chemin Hugues Bernard;24118;Sainte Geneviève;11
+112;12;rue Bodin;97223;Martinezdan;9
+113;2;rue de Pierre;76679;Baron-sur-Mer;9
+114;8;chemin Girard;25870;Aubry;9
+115;42;boulevard de Dufour;55282;Gilbert;4
+116;50;rue Lopez;77786;Maillet;7
+117;17;rue de Poulain;39116;Deschamps;5
+118;28;rue de Techer;20287;VasseurBourg;11
+119;17;rue Rodrigues;49215;Poirier;4
+120;20;rue Dumas;39615;Delmas;13
+121;6;chemin de Schneider;63955;Leconte;11
+122;23;rue Pascal;85579;Fourniernec;11
+123;2;avenue Rodrigues;84130;Gaudin;13
+124;21;rue Perez;85942;Sainte Patricia;6
+125;27;boulevard Lebreton;38431;Pinto;7
+126;19;boulevard Maggie Meunier;44808;Sainte Christophe;3
+127;47;avenue de Dupré;90380;Allain;3
+128;36;rue de Lesage;41647;Bruneau;4
+129;30;rue Bertin;91783;Le Gall-la-Forêt;6
+130;7;rue Dominique Cohen;73295;Legendre;12
+131;14;rue Gabrielle Evrard;52486;LagardeBourg;5
+132;32;avenue de Ollivier;16612;Alexandre;3
+133;11;boulevard de Marty;19600;Toussaint;7
+134;2;avenue Nath Hubert;44231;Sainte Andrée;7
+135;21;avenue Adèle Olivier;33613;Sainte Aurore;13
+136;23;boulevard Christiane Boucher;49771;Martel;13
+137;8;chemin Sabine Lacombe;4793;Maillot;5
+138;12;avenue Dupuy;46928;Philippe;3
+139;17;avenue de Raymond;64424;Sainte Dorothée-la-Forêt;8
+140;11;boulevard de Maillet;97469;Guyon;1
+141;27;boulevard Reynaud;83406;Dufour;13
+142;33;rue de Da Silva;44672;Devaux;8
+143;32;rue de Alves;91567;Charrier;3
+144;30;rue de Ribeiro;41702;Hoareau;13
+145;24;rue Carpentier;95473;Joly;5
+146;33;rue Jourdan;75424;Saint Nicole;8
+147;37;rue Bernard Faure;6534;Gomez;11
+148;15;chemin Brigitte Georges;7243;LebrunVille;7
+149;38;boulevard de Marques;66278;Colas;11
+150;19;boulevard Victor Lemonnier;45885;PrévostVille;7
+151;26;avenue Guillaume Laroche;29717;Tanguy-la-Forêt;7
+152;29;rue de Hoarau;79350;KleinVille;10
+153;4;rue Gérard;46808;Carpentier-sur-Antoine;11
+154;1;boulevard Matthieu Berger;38584;Nguyen;12
+155;43;boulevard Peltier;9298;Saint Arthur;3
+156;48;rue de Bonnin;9442;Sainte Nath-les-Bains;9
+157;31;avenue Audrey Poulain;29879;Antoinenec;4
+158;49;chemin de Lopes;97163;Riou-sur-Thibault;3
+159;3;rue de Grégoire;6247;Morel;10
+160;3;rue de Lambert;87693;Perrier-sur-Cohen;10
+161;13;rue de Ledoux;15941;Descamps;4
+162;38;rue Josette Bertin;42536;Breton;12
+163;15;rue de Lejeune;55251;Fouquet;11
+164;24;rue de Richard;18845;Lévêque;2
+165;48;avenue Humbert;36505;Le Roux-la-Forêt;10
+166;37;avenue de Gaudin;86586;Saint PhilippeBourg;3
+167;41;avenue Andre;9568;Joly;4
+168;8;avenue de Valette;71930;Leblanc;2
+169;47;chemin Blin;72344;Moreaunec;9
+170;8;chemin Rémy Legendre;20835;Sainte Geneviève;5
+171;34;boulevard Guillon;57147;Sainte Gilbert;7
+172;39;rue Laure De Oliveira;47682;Lenoirnec;4
+173;7;avenue de Leroux;84783;Gillesboeuf;5
+174;17;chemin de Renaud;22476;Pires-les-Bains;9
+175;2;avenue de Letellier;37796;Saint Christelledan;2
+176;40;rue Lombard;32294;Joly;11
+177;40;rue Collin;2199;Michel;2
+178;35;avenue de Couturier;17832;LemoineBourg;2
+179;49;rue Victor Lambert;39535;Bodin-sur-Gautier;7
+180;22;rue André Bertrand;88739;Daniel-sur-Marie;5
+181;14;chemin Bonnet;14559;Lemonnier;2
+182;12;boulevard de Reynaud;20515;Parent;10
+183;7;rue de Lopes;49351;Pons;10
+184;31;chemin Eugène Fleury;37166;DelahayeVille;12
+185;41;rue René Evrard;76938;OllivierBourg;10
+186;3;boulevard Augustin Prévost;37826;Weiss;10
+187;42;rue de Turpin;24167;Salmon;9
+188;11;chemin Camille Blanc;41950;Sainte Thibault;8
+189;39;avenue Lebrun;13246;Lévêque;10
+190;48;chemin de Pelletier;19625;Saint Nicolas;12
+191;49;boulevard Antoine;91102;Maillard-sur-Lejeune;8
+192;24;chemin Étienne Bousquet;69212;Saint Marthe;5
+193;14;chemin de Berthelot;30777;Guillotdan;9
+194;26;boulevard Éléonore Camus;3256;David-la-Forêt;11
+195;13;boulevard Diane Perrin;54625;Collet;13
+196;5;boulevard Valérie Pottier;28798;Lévy;2
+197;29;boulevard Rey;22130;Coste-sur-Courtois;8
+198;27;rue Rémy;16491;Giraud;8
+199;25;boulevard de Colin;24830;VoisinBourg;13
+200;13;avenue de Antoine;80340;Saint Aimé;9

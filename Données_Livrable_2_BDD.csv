@@ -1,0 +1,64 @@
+Ref releve;Num capteur;Ville;Région;Date;Gaz;Type;Donnee (en ppm)
+57;1;Paris;Ile de France;01/02/2020;N2O;GES;3,3
+10025;2;Paris;Ile de France;01/03/2020;N2O;GES;3,25
+200384;35;Bordeaux;Nouvelle-Aquitaine;43101;CO2 bio;GES;440
+1;11;Lyon;Auvergne-Rhône-Alpes;42533;NH3;GRA;1,32
+2;12;Lyon;Auvergne-Rhône-Alpes;42533;CO2 bio;GES;460
+3;13;Lyon;Auvergne-Rhône-Alpes;42533;CH4;GES;1,85
+4;11;Lyon;Auvergne-Rhône-Alpes;42572;NH3;GRA;1,35
+5;12;Lyon;Auvergne-Rhône-Alpes;42572;CO2 bio;GES;453
+6;13;Lyon;Auvergne-Rhône-Alpes;42572;CH4;GES;1,9
+7;11;Lyon;Auvergne-Rhône-Alpes;42583;NH3;GRA;1,56
+8;12;Lyon;Auvergne-Rhône-Alpes;42583;CO2 bio;GES;485
+9;13;Lyon;Auvergne-Rhône-Alpes;42583;CH4;GES;1,83
+10;11;Lyon;Auvergne-Rhône-Alpes;42830;NH3;GRA;1,12
+11;12;Lyon;Auvergne-Rhône-Alpes;42830;CO2 bio;GES;492
+12;13;Lyon;Auvergne-Rhône-Alpes;42830;CH4;GES;1,75
+13;21;Reims;Grand Est;42522;CH4;GES;1,32
+14;22;Reims;Grand Est;42522;NH3;GRA;1,26
+15;23;Reims;Grand Est;42522;PFC;GES;0,0000895
+16;24;Reims;Grand Est;01/06/2016;HFC;GES;0,000206
+17;25;Reims;Grand Est;01/06/2016;SF6;GES;0,000009
+18;26;Reims;Grand Est;01/06/2016;CO2 bio;GES;458
+19;21;Reims;Grand Est;05/12/2016;CH4;GES;1,41
+20;22;Reims;Grand Est;05/12/2016;NH3;GRA;0,04
+21;23;Reims;Grand Est;05/12/2016;PFC;GES;0,0000956
+22;24;Reims;Grand Est;05/12/2016;HFC;GES;0,00025
+23;25;Reims;Grand Est;05/12/2016;SF6;GES;0,000008
+24;26;Reims;Grand Est;05/12/2016;CO2 bio;GES;432
+25;31;Nantes;Pays de la Loire;01/02/2017;CH4;GES;1,65
+26;32;Nantes;Pays de la Loire;01/02/2017;NH3;GRA;0,05
+27;33;Nantes;Pays de la Loire;01/02/2017;PFC;GES;0,0001
+28;34;Nantes;Pays de la Loire;01/02/2017;CO2 bio;GES;451
+29;31;Nantes;Pays de la Loire;01/03/2017;CH4;GES;1,71
+30;32;Nantes;Pays de la Loire;01/03/2017;NH3;GRA;0,045
+31;33;Nantes;Pays de la Loire;01/03/2017;PFC;GES;0,0000846
+32;34;Nantes;Pays de la Loire;01/03/2017;CO2 bio;GES;472
+33;31;Nantes;Pays de la Loire;01/04/2017;CH4;GES;1,68
+34;32;Nantes;Pays de la Loire;01/04/2017;NH3;GRA;0,042
+35;33;Nantes;Pays de la Loire;01/04/2017;PFC;GES;0,0000832
+36;34;Nantes;Pays de la Loire;01/04/2017;CO2 bio;GES;478
+37;35;Bordeaux;Nouvelle-Aquitaine;01/03/2016;CO2 bio;GES;485
+38;37;Bordeaux;Nouvelle-Aquitaine;01/03/2016;CO2 non bio;GES;560
+39;35;Bordeaux;Nouvelle-Aquitaine;01/04/2016;CO2 bio;GES;472
+40;37;Bordeaux;Nouvelle-Aquitaine;01/04/2016;CO2 non bio;GES;600
+41;35;Bordeaux;Nouvelle-Aquitaine;01/05/2016;CO2 bio;GES;470
+42;37;Bordeaux;Nouvelle-Aquitaine;01/05/2016;CO2 non bio;GES;595
+43;35;Bordeaux;Nouvelle-Aquitaine;01/06/2016;CO2 bio;GES;435
+44;37;Bordeaux;Nouvelle-Aquitaine;01/06/2016;CO2 non bio;GES;582
+45;35;Bordeaux;Nouvelle-Aquitaine;01/07/2016;CO2 bio;GES;442
+46;37;Bordeaux;Nouvelle-Aquitaine;01/07/2016;CO2 non bio;GES;520
+47;35;Bordeaux;Nouvelle-Aquitaine;01/08/2016;CO2 bio;GES;453
+48;37;Bordeaux;Nouvelle-Aquitaine;01/08/2016;CO2 non bio;GES;502
+49;35;Bordeaux;Nouvelle-Aquitaine;01/09/2016;CO2 bio;GES;457
+50;37;Bordeaux;Nouvelle-Aquitaine;01/09/2016;CO2 non bio;GES;531
+51;35;Bordeaux;Nouvelle-Aquitaine;01/10/2016;CO2 bio;GES;467
+52;37;Bordeaux;Nouvelle-Aquitaine;01/10/2016;CO2 non bio;GES;562
+53;35;Bordeaux;Nouvelle-Aquitaine;01/11/2016;CO2 bio;GES;472
+54;37;Bordeaux;Nouvelle-Aquitaine;01/11/2016;CO2 non bio;GES;580
+55;35;Bordeaux;Nouvelle-Aquitaine;01/12/2016;CO2 bio;GES;481
+56;37;Bordeaux;Nouvelle-Aquitaine;01/12/2016;CO2 non bio;GES;545
+57;35;Bordeaux;Nouvelle-Aquitaine;01/01/2017;CO2 bio;GES;462
+58;37;Bordeaux;Nouvelle-Aquitaine;01/01/2017;CO2 non bio;GES;587
+59;35;Bordeaux;Nouvelle-Aquitaine;01/02/2017;CO2 bio;GES;441
+60;37;Bordeaux;Nouvelle-Aquitaine;01/02/2017;CO2 non bio;GES;620
